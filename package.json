@@ -6,8 +6,15 @@
     "publisher": "avjohnst",
     "repository": {
         "type": "git",
-        "url": ""
-    }.
+        "url": "https://github.com/avjohnston/vs-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "pastel",
+        "vice",
+        "avjohnst"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },
