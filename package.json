@@ -1,0 +1,26 @@
+{
+    "name": "andrew-theme-dark",
+    "displayName": "andrews theme",
+    "description": "it's tight",
+    "version": "0.0.1",
+    "publisher": "avjohnst",
+    "repository": {
+        "type": "git",
+        "url": ""
+    }.
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "andrew-custom-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/andrew-custom-dark-color-theme.json"
+            }
+        ]
+    }
+}
